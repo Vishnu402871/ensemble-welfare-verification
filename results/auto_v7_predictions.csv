@@ -1,0 +1,522 @@
+citizen_id,scheme_id,scheme_name,category,source,gold_label,llm_rag,auto_pred
+CP-097,IW600-UK-GBR-015,Childcare Grant,Women & Child Welfare,gov.uk,not eligible,not eligible,not eligible
+CP-030,IW600-MS-GJ-004,Incentive To Owners Of Artificial Insemination Born Female Calf Through Pure Breeding In Indigenous Cow,Agriculture & Rural Development,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-043,IW600-UK-GBR-054,Vaccine Damage Payment,Finance & Banking,gov.uk,not eligible,not eligible,not eligible
+CP-022,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-096,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-038,IW600-MS-RJ-015,Transgender Utthan Kosh - Self Employment Programme for Transgender,Business & Entrepreneurship,myscheme.gov.in,not eligible,eligible,not eligible
+CP-090,IW600-JS-CEN-015,Deendayal Antyodaya Yojana-National Rural Livelihoods Mission (DAY-NRLM) - Livelihood Loan,Agriculture & Rural Development,jansamarth.in,not eligible,not eligible,not eligible
+CP-065,IW600-US-USA-032,Job Corps,Employment & Skills,benefits.gov,not eligible,eligible,not eligible
+CP-080,IW600-MS-CG-009,Tirth Barat Yojana,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-021,IW600-JS-CEN-006,Agri-Clinic and Agribusiness Centers Scheme (ACABC) - Agriculture Infrastructure Loan,Agriculture & Rural Development,jansamarth.in,eligible,eligible,eligible
+CP-011,IW600-US-USA-004,Child and Adult Care Food Program (CACFP),Food & Nutrition,benefits.gov,not eligible,eligible,not eligible
+CP-011,IW600-UK-GBR-057,Widowed Parent's Allowance,Disability Support,gov.uk,not eligible,eligible,not eligible
+CP-081,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-091,IW600-MS-AR-019,Vidya Scheme,Education & Learning,myscheme.gov.in,not eligible,eligible,not eligible
+CP-060,IW600-MS-BR-006,Mukhyamantri Shramshakti Yojana,Employment & Skills,myscheme.gov.in,not eligible,eligible,not eligible
+CP-086,IW600-MS-CEN-003,PM Vishwakarma,Business & Entrepreneurship,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-037,IW600-UK-GBR-038,Mortgage Interest Run On,Housing & Shelter,gov.uk,not eligible,eligible,not eligible
+CP-091,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,not eligible,eligible
+CP-069,IW600-US-USA-001,Supplemental Nutrition Assistance Program (SNAP),Food & Nutrition,benefits.gov,not eligible,not eligible,not eligible
+CP-055,IW600-MS-CG-008,Mukhyamantri Shramik Aujaar Sahayata Yojana,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-093,IW600-MS-CEN-006,Mission Vatsalya (Child Protection Services and Child Welfare Services),Women & Child Welfare,myscheme.gov.in,eligible,eligible,not eligible
+CP-046,IW600-UK-GBR-004,Apply for free school meals,Finance & Banking,gov.uk,not eligible,eligible,not eligible
+CP-081,IW600-JS-CEN-010,List of All Credit Linked Government Schemes of India,Social Welfare & Empowerment,jansamarth.in,eligible,eligible,not eligible
+CP-027,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-039,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-013,IW600-MS-KL-009,OEC Pre-matric Educational Assistance,Education & Learning,myscheme.gov.in,not eligible,eligible,not eligible
+CP-092,IW600-MS-AR-011,Chief Minister’s Shasakt Kisan Yojana,Agriculture & Rural Development,myscheme.gov.in,not eligible,eligible,not eligible
+CP-093,IW600-UK-GBR-057,Widowed Parent's Allowance,Disability Support,gov.uk,not eligible,not eligible,not eligible
+CP-029,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-077,IW600-TN-TN-060,"Free education scholarship for Professional Courses (Engineering, Medical, Agriculture, Veterinary and Law)",Education & Learning,tn.gov.in,not eligible,eligible,not eligible
+CP-016,IW600-MS-KL-010,Vidyajyothi Scheme- Financial Aid For Uniforms And Study Materials To PH Students,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-009,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-035,IW600-JS-CEN-010,List of All Credit Linked Government Schemes of India,Social Welfare & Empowerment,jansamarth.in,not eligible,eligible,not eligible
+CP-094,IW600-US-USA-014,Section 202 Supportive Housing for the Elderly,Housing & Shelter,benefits.gov,not eligible,not eligible,not eligible
+CP-051,IW600-MS-BR-014,Satat Jeevikoparjan Yojana (SJY),Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-097,IW600-TN-TN-090,Primary Cooperative Agriculture and Rural Development Bank - For Fishing Boats (Catamarans),Finance & Banking,tn.gov.in,not eligible,eligible,not eligible
+CP-023,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-044,IW600-MS-HR-020,Additional Pension to 100% Disabled Ex-Serviceman having Children,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-084,IW600-TN-TN-053,District central Cooperative Banks and through its branches - For Working women,Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-015,IW600-MS-KL-003,Jeevanam Self-Employment Scheme To Dependents Of Crime Victims,Social Welfare & Empowerment,myscheme.gov.in,eligible,eligible,not eligible
+CP-078,IW600-MS-CG-011,Potency Development Plan,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-025,IW600-MS-GA-013,Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen,Agriculture & Rural Development,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-091,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-079,IW600-MS-CG-017,Durghatana Mein Chikitsa Sahaayata Yojana,Health & Medical,myscheme.gov.in,eligible,eligible,not eligible
+CP-052,IW600-UK-GBR-013,Child Benefit when your child turns 16,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-055,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-046,IW600-UK-GBR-026,Get help with funeral costs (Funeral Expenses Payment),Finance & Banking,gov.uk,not eligible,eligible,not eligible
+CP-084,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,eligible,not eligible
+CP-046,IW600-UK-GBR-016,Claim if you were injured while serving in the armed forces,Finance & Banking,gov.uk,not eligible,not eligible,not eligible
+CP-072,IW600-MS-GJ-017,Kisan Parivahan Yojana,Agriculture & Rural Development,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-100,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,not eligible
+CP-095,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-091,IW600-MS-AN-023,Educational Assistance (ANBOCWWB),Education & Learning,myscheme.gov.in,not eligible,eligible,not eligible
+CP-023,IW600-UK-GBR-012,Child Benefit if a child or parent dies,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-023,IW600-MS-AR-001,Cash Award (APB&OCWWB),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-087,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-097,IW600-JS-CEN-011,Apply for Startup Loans under SCGSS Scheme - Government Startup Scheme,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-074,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-023,IW600-MS-HR-013,Sewing Machine Scheme- Haryana Labour Welfare Board,Women & Child Welfare,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-063,IW600-TN-TN-044,"District central Cooperative Banks and through its branches - For Consumer durables T.V., Fridge and two wheelers loan.",Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-055,IW600-UK-GBR-033,Industrial Injuries Disablement Benefit,Finance & Banking,gov.uk,not eligible,eligible,not eligible
+CP-057,IW600-US-USA-049,Senior Community Service Employment Program (SCSEP),Pension & Social Security,benefits.gov,not eligible,eligible,not eligible
+CP-024,IW600-MS-KL-001,Financial Assistance To Ex-Convicts,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-055,IW600-MS-CEN-004,National Agriculture Market,Agriculture & Rural Development,myscheme.gov.in,eligible,eligible,eligible
+CP-019,IW600-MS-AP-017,INDIRAMMA Widow Pension (Urban),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-021,IW600-JS-CEN-010,List of All Credit Linked Government Schemes of India,Social Welfare & Empowerment,jansamarth.in,eligible,eligible,eligible
+CP-097,IW600-US-USA-026,Federal Work-Study (FWS),Education & Learning,benefits.gov,not eligible,not eligible,not eligible
+CP-072,IW600-TN-TN-116,Special capital subsidy for thrust sector enterprises,Business & Entrepreneurship,tn.gov.in,not eligible,not eligible,not eligible
+CP-064,IW600-MS-BR-019,Bihar Disability Pension Scheme,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-051,IW600-MS-MH-001,Homes For Intellectually Impaired Persons,Housing & Shelter,myscheme.gov.in,not eligible,eligible,not eligible
+CP-092,IW600-MS-AR-019,Vidya Scheme,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-036,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,not eligible,eligible
+CP-007,IW600-MS-MH-009,Indira Gandhi National Widow Pension Scheme (Maharashtra),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-008,IW600-JS-CEN-010,List of All Credit Linked Government Schemes of India,Social Welfare & Empowerment,jansamarth.in,not eligible,eligible,not eligible
+CP-072,IW600-JS-CEN-001,Solar Roof Top Scheme (SOLAR),Energy & Utilities,jansamarth.in,eligible,eligible,eligible
+CP-091,IW600-US-USA-009,Ryan White HIV/AIDS Program,Health & Medical,benefits.gov,not eligible,eligible,not eligible
+CP-085,IW600-MS-HP-002,Industrial Skill Development Allowance To The New Employees Employed In Industries In H.p,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-086,IW600-US-USA-001,Supplemental Nutrition Assistance Program (SNAP),Food & Nutrition,benefits.gov,not eligible,not eligible,not eligible
+CP-040,IW600-UK-GBR-058,Winter Fuel Payment,Energy & Utilities,gov.uk,not eligible,not eligible,not eligible
+CP-020,IW600-UK-GBR-015,Childcare Grant,Women & Child Welfare,gov.uk,not eligible,not eligible,not eligible
+CP-041,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-023,IW600-MS-HP-008,Dr. Ambedkar Medhavi Chhatravriti Yojna to Other Backward Classes Students,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-078,IW600-TN-TN-052,District central Cooperative Banks and through its branches - For Women Enterpreneurs,Finance & Banking,tn.gov.in,not eligible,eligible,not eligible
+CP-030,IW600-TN-TN-002,Adi Dravidar and Tribal Welfare Department -Hostels - Special Guides,Social Welfare & Empowerment,tn.gov.in,not eligible,eligible,not eligible
+CP-090,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-043,IW600-MS-MH-019,Providing Tin stalls to Gatai Kamgar,Finance & Banking,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-021,IW600-MS-CEN-006,Mission Vatsalya (Child Protection Services and Child Welfare Services),Women & Child Welfare,myscheme.gov.in,eligible,eligible,not eligible
+CP-033,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-080,IW600-JS-CEN-001,Solar Roof Top Scheme (SOLAR),Energy & Utilities,jansamarth.in,eligible,eligible,eligible
+CP-018,IW600-MS-KA-020,Vrutti Protsaha Loan Scheme,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-042,IW600-MS-CH-008,Unemployment Allowance to Disabled Persons,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-047,IW600-UK-GBR-054,Vaccine Damage Payment,Finance & Banking,gov.uk,not eligible,not eligible,not eligible
+CP-022,IW600-TN-TN-080,Organizing Block Demonstration,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-065,IW600-MS-DN-002,Investment Promotion Scheme (IPS): Environment Protection Infrastructure Subsidy,Business & Entrepreneurship,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-062,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-030,IW600-MS-GJ-016,Poshan Sudha,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-084,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-040,IW600-TN-TN-074,Livelihood activities for asset less persons-2012,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-015,IW600-MS-KA-015,Interest Subvention Scheme,Business & Entrepreneurship,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-038,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-024,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-063,IW600-TN-TN-115,Skill Development Training Schemes and Skill Upgradation Training Schemes,Business & Entrepreneurship,tn.gov.in,not eligible,not eligible,not eligible
+CP-030,IW600-JS-CEN-009,Agriculture Infrastructure Fund Scheme (AIF) - Agriculture Infrastructure Loan,Agriculture & Rural Development,jansamarth.in,not eligible,not eligible,not eligible
+CP-015,IW600-MS-RJ-014,Anti Bird Net,Agriculture & Rural Development,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-001,IW600-TN-TN-055,Employees Cooperative societies Surety loan,Finance & Banking,tn.gov.in,eligible,eligible,eligible
+CP-097,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-091,IW600-US-USA-024,VA Caregiver Support Program,Veterans Benefits,benefits.gov,not eligible,not eligible,not eligible
+CP-064,IW600-MS-BR-012,Mukhyamantri Alpasankhyak Udyami Yojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,not eligible
+CP-058,IW600-TN-TN-130,Visit of Contract Farming farmers to the Research Stations in Karnataka,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-087,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-061,IW600-MS-GJ-009,Financial Assistance Scheme for Purchase of Agricultural Land to Scheduled Caste Farmers,Finance & Banking,myscheme.gov.in,not eligible,eligible,not eligible
+CP-100,IW600-US-USA-045,Child and Dependent Care Tax Credit,Finance & Banking,benefits.gov,not eligible,eligible,not eligible
+CP-080,IW600-UK-GBR-010,Care to Learn,Education & Learning,gov.uk,not eligible,eligible,not eligible
+CP-007,IW600-MS-GJ-016,Poshan Sudha,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-048,IW600-MS-GA-005,D. D. Kosambi Research Fellowship Scheme,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-040,IW600-UK-GBR-032,Housing Benefit,Housing & Shelter,gov.uk,not eligible,eligible,not eligible
+CP-002,IW600-MS-CG-017,Durghatana Mein Chikitsa Sahaayata Yojana,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-067,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,not eligible,eligible
+CP-074,IW600-MS-SK-001,Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Export Oriented Production:Large Cardamom Replanting/New planting (Ha),Agriculture & Rural Development,myscheme.gov.in,not eligible,eligible,not eligible
+CP-002,IW600-TN-TN-094,Primary Cooperative Agriculture and Rural Development Bank - For Minor irrigation,Finance & Banking,tn.gov.in,eligible,eligible,eligible
+CP-055,IW600-MS-KL-015,Scholarship For Transgender Students,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-030,IW600-MS-UP-004,Surgical Grant For The Prevention Of Disability,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-032,IW600-TN-TN-086,Postmatric Scholarship are sanctioned from 11th Standard to Research level as per the rates prescribed in the Scholarship Notitification,Education & Learning,tn.gov.in,not eligible,eligible,not eligible
+CP-016,IW600-MS-KL-002,Marriage Assistance For Legally Married Transgender Couples,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-091,IW600-MS-AR-007,Advance For Purchase Or Construction Of House (APB&OCWWB),Social Welfare & Empowerment,myscheme.gov.in,eligible,eligible,eligible
+CP-050,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-036,IW600-UK-GBR-059,"Your benefits, tax and pension after the death of a partner",Pension & Social Security,gov.uk,not eligible,eligible,not eligible
+CP-025,IW600-JS-CEN-014,NAMASTE Scheme,Social Welfare & Empowerment,jansamarth.in,eligible,eligible,eligible
+CP-015,IW600-MS-CEN-003,PM Vishwakarma,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-028,IW600-MS-UP-002,Shop Construction/Shop Operation Scheme For Rehabilitation Of PwDs,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-067,IW600-TN-TN-052,District central Cooperative Banks and through its branches - For Women Enterpreneurs,Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-001,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-049,IW600-TN-TN-053,District central Cooperative Banks and through its branches - For Working women,Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-021,IW600-MS-AP-013,Sanction of Enhancement of Marriage Incentive Awards for Marriages Between Persons with Differently Abled and Normal Persons,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,eligible
+CP-032,IW600-UK-GBR-028,Guardian's Allowance,Disability Support,gov.uk,not eligible,not eligible,not eligible
+CP-064,IW600-MS-BR-006,Mukhyamantri Shramshakti Yojana,Employment & Skills,myscheme.gov.in,not eligible,eligible,not eligible
+CP-042,IW600-UK-GBR-011,Child Benefit,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-015,IW600-TN-TN-099,Primary Cooperative Agriculture and Rural Development Bank - For Tractor Purchase,Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-078,IW600-TN-TN-082,Organizing Block Demonstration through Department and also through TNAU,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-096,IW600-MS-KA-008,Incentive Scheme for Sericulture Reelers,Business & Entrepreneurship,myscheme.gov.in,not eligible,eligible,not eligible
+CP-093,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-042,IW600-US-USA-008,Medicare,Health & Medical,benefits.gov,not eligible,eligible,not eligible
+CP-079,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-042,IW600-TN-TN-022,Assistance for purchase of Spectacles,Culture & Arts,tn.gov.in,not eligible,eligible,not eligible
+CP-047,IW600-MS-MH-009,Indira Gandhi National Widow Pension Scheme (Maharashtra),Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-059,IW600-JS-CEN-006,Agri-Clinic and Agribusiness Centers Scheme (ACABC) - Agriculture Infrastructure Loan,Agriculture & Rural Development,jansamarth.in,not eligible,eligible,not eligible
+CP-045,IW600-UK-GBR-049,Support for Mortgage Interest (SMI),Housing & Shelter,gov.uk,not eligible,eligible,not eligible
+CP-023,IW600-MS-KL-019,Aswasakiranam,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-073,IW600-JS-CEN-010,List of All Credit Linked Government Schemes of India,Social Welfare & Empowerment,jansamarth.in,not eligible,eligible,eligible
+CP-096,IW600-MS-KA-015,Interest Subvention Scheme,Business & Entrepreneurship,myscheme.gov.in,not eligible,eligible,not eligible
+CP-055,IW600-TN-TN-125,Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme),Business & Entrepreneurship,tn.gov.in,not eligible,not eligible,not eligible
+CP-011,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-007,IW600-UK-GBR-025,Get help with NHS prescriptions and health costs,Finance & Banking,gov.uk,not eligible,eligible,not eligible
+CP-072,IW600-MS-KA-020,Vrutti Protsaha Loan Scheme,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-100,IW600-UK-GBR-037,Maternity pay and leave,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-079,IW600-UK-GBR-017,Diffuse mesothelioma payments,Finance & Banking,gov.uk,not eligible,eligible,not eligible
+CP-096,IW600-JS-CEN-001,Solar Roof Top Scheme (SOLAR),Energy & Utilities,jansamarth.in,eligible,eligible,eligible
+CP-007,IW600-MS-UP-018,General Pre Matric Scholarship-Uttar Pradesh,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-001,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,eligible,not eligible
+CP-079,IW600-TN-TN-010,"All India Service Examinations like I.A.S., I.P.S., I.R.S., etc.",Social Welfare & Empowerment,tn.gov.in,not eligible,not eligible,not eligible
+CP-016,IW600-TN-TN-073,Large sized multi purpose Coop.Society Medium Term loan to Tribal members,Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-078,IW600-MS-CG-016,Medhavi Chhatr/Chhatra Shiksha Protsahan Yojana,Education & Learning,myscheme.gov.in,eligible,eligible,not eligible
+CP-061,IW600-MS-CG-017,Durghatana Mein Chikitsa Sahaayata Yojana,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-007,IW600-JS-CEN-014,NAMASTE Scheme,Social Welfare & Empowerment,jansamarth.in,eligible,eligible,eligible
+CP-091,IW600-MS-UP-007,Gambhir Bimari Sahayata Yojana,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-017,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,eligible,not eligible
+CP-056,IW600-MS-GJ-016,Poshan Sudha,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-035,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-059,IW600-JS-CEN-007,Weavers Mudra Scheme (WMS) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-006,IW600-TN-TN-057,Farmers Training,Agriculture & Rural Development,tn.gov.in,eligible,eligible,eligible
+CP-053,IW600-MS-GJ-001,Mukhyamantri Mahila Utkarsh Yojana,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-013,IW600-MS-KA-009,Community Based Training Scheme,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-066,IW600-UK-GBR-058,Winter Fuel Payment,Energy & Utilities,gov.uk,not eligible,not eligible,not eligible
+CP-015,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-048,IW600-MS-MH-003,The Scheme Of State Award For Disabled,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-029,IW600-MS-UP-017,Atal Awasiya Vidyala Yojana,Education & Learning,myscheme.gov.in,not eligible,eligible,eligible
+CP-081,IW600-US-USA-043,Social Security Survivor Benefits,Finance & Banking,benefits.gov,not eligible,not eligible,not eligible
+CP-015,IW600-MS-KA-018,Disability Pension and Ex-Gratia (K.B.O.C.W.W.B),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-097,IW600-MS-RJ-006,Widow B.Ed Scheme-Rajasthan,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-005,IW600-TN-TN-050,District central Cooperative Banks and through its branches - For Small Road Transport Operators loan (SRTO loan),Finance & Banking,tn.gov.in,eligible,eligible,not eligible
+CP-030,IW600-JS-CEN-001,Solar Roof Top Scheme (SOLAR),Energy & Utilities,jansamarth.in,eligible,eligible,eligible
+CP-097,IW600-MS-AS-008,CM's Jibon Anuprerana Scheme,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-020,IW600-MS-AP-005,INDIRAMMA Old Age Pension (Urban),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-073,IW600-JS-CEN-006,Agri-Clinic and Agribusiness Centers Scheme (ACABC) - Agriculture Infrastructure Loan,Agriculture & Rural Development,jansamarth.in,not eligible,eligible,eligible
+CP-091,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-002,IW600-UK-GBR-001,Access to Work: get support if you have a disability or health condition,Disability Support,gov.uk,not eligible,eligible,not eligible
+CP-063,IW600-MS-BR-001,Chief Minister Divyangjan Empowerment Scheme (Sambal),Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-064,IW600-UK-GBR-030,"Help if you're a student with a learning difficulty, health problem or disability",Disability Support,gov.uk,not eligible,not eligible,not eligible
+CP-042,IW600-TN-TN-087,PRE-MATRIC SCHOLARSHIP SCHEME,Education & Learning,tn.gov.in,not eligible,not eligible,not eligible
+CP-088,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,eligible,not eligible
+CP-004,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-083,IW600-TN-TN-042,Distribution of Rhizobium Packets - Oilseeds,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-048,IW600-UK-GBR-021,Get a free or discounted TV licence,Energy & Utilities,gov.uk,not eligible,not eligible,not eligible
+CP-026,IW600-MS-UP-003,Marriage Incentive Reward Scheme,Social Welfare & Empowerment,myscheme.gov.in,eligible,eligible,eligible
+CP-046,IW600-MS-AS-019,"""Orthodox or Specialty Tea Production Subsidy"" under the ""Assam Tea Industries Special Incentives Scheme""",Agriculture & Rural Development,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-017,IW600-UK-GBR-051,Sure Start Maternity Grant,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-013,IW600-MS-AP-013,Sanction of Enhancement of Marriage Incentive Awards for Marriages Between Persons with Differently Abled and Normal Persons,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-026,IW600-JS-CEN-015,Deendayal Antyodaya Yojana-National Rural Livelihoods Mission (DAY-NRLM) - Livelihood Loan,Agriculture & Rural Development,jansamarth.in,not eligible,eligible,not eligible
+CP-090,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-081,IW600-TN-TN-053,District central Cooperative Banks and through its branches - For Working women,Finance & Banking,tn.gov.in,not eligible,eligible,not eligible
+CP-088,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-081,IW600-UK-GBR-051,Sure Start Maternity Grant,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-015,IW600-MS-KL-018,Varnam Scheme For Transgender Students Pursuing Distance Education Courses,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-091,IW600-UK-GBR-018,Disability Living Allowance (DLA) for children,Disability Support,gov.uk,not eligible,not eligible,not eligible
+CP-060,IW600-JS-CEN-006,Agri-Clinic and Agribusiness Centers Scheme (ACABC) - Agriculture Infrastructure Loan,Agriculture & Rural Development,jansamarth.in,not eligible,eligible,eligible
+CP-005,IW600-MS-AN-003,The Andaman & Nicobar Islands Widow Pension Scheme,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-030,IW600-TN-TN-103,Production of Certified Seeds of Maize,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-048,IW600-MS-MH-011,Indira Gandhi National Old Age Pension Scheme (Maharashtra),Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-082,IW600-JS-CEN-011,Apply for Startup Loans under SCGSS Scheme - Government Startup Scheme,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-097,IW600-TN-TN-127,Training to Farmers,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-097,IW600-MS-KA-011,Continuation of Pension (K.B.O.C.W.W.B),Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-012,IW600-MS-AN-011,Andaman & Nicobar Bed & Breakfast / Home Stay Establishment Scheme,Transport & Infrastructure,myscheme.gov.in,not eligible,eligible,not eligible
+CP-015,IW600-TN-TN-073,Large sized multi purpose Coop.Society Medium Term loan to Tribal members,Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-069,IW600-UK-GBR-039,National Concessionary Fuel Scheme,Energy & Utilities,gov.uk,not eligible,not eligible,not eligible
+CP-072,IW600-UK-GBR-033,Industrial Injuries Disablement Benefit,Finance & Banking,gov.uk,not eligible,eligible,not eligible
+CP-029,IW600-US-USA-033,Workforce Innovation and Opportunity Act (WIOA) Adult Program,Employment & Skills,benefits.gov,not eligible,eligible,not eligible
+CP-031,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-047,IW600-JS-CEN-003,Pradhan Mantri Mudra Yojana Scheme (PMMY) - Business Loan,Business & Entrepreneurship,jansamarth.in,eligible,eligible,eligible
+CP-055,IW600-MS-HP-014,Maharishi Balmiki Chatravriti Yojana,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-050,IW600-MS-MH-014,Financial Assistance To Disabled For Self Employment,Employment & Skills,myscheme.gov.in,not eligible,unknown,not eligible
+CP-030,IW600-US-USA-009,Ryan White HIV/AIDS Program,Health & Medical,benefits.gov,not eligible,not eligible,not eligible
+CP-021,IW600-MS-AP-017,INDIRAMMA Widow Pension (Urban),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-051,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-057,IW600-MS-GJ-001,Mukhyamantri Mahila Utkarsh Yojana,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-083,IW600-MS-AP-006,Sanction of Motorized Three Wheeler to Orthopedically Challenged,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-040,IW600-US-USA-010,Indian Health Service (IHS),Health & Medical,benefits.gov,not eligible,not eligible,not eligible
+CP-008,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-100,IW600-US-USA-033,Workforce Innovation and Opportunity Act (WIOA) Adult Program,Employment & Skills,benefits.gov,not eligible,eligible,not eligible
+CP-063,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,not eligible,eligible
+CP-091,IW600-US-USA-012,Public Housing Program,Housing & Shelter,benefits.gov,not eligible,not eligible,not eligible
+CP-011,IW600-TN-TN-015,Application for Special Capital (Investment) Subsidy,Business & Entrepreneurship,tn.gov.in,not eligible,eligible,not eligible
+CP-055,IW600-US-USA-023,Veterans Pension,Veterans Benefits,benefits.gov,not eligible,not eligible,not eligible
+CP-100,IW600-US-USA-019,Americans with Disabilities Act (ADA) Tax Credits,Disability Support,benefits.gov,not eligible,eligible,not eligible
+CP-022,IW600-MS-AP-005,INDIRAMMA Old Age Pension (Urban),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-073,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-015,IW600-MS-RJ-017,Ambedkar International Scholarship - SC,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-055,IW600-MS-HP-004,Uttam Pashu Puraskar Yojana,Agriculture & Rural Development,myscheme.gov.in,not eligible,eligible,not eligible
+CP-092,IW600-MS-AR-007,Advance For Purchase Or Construction Of House (APB&OCWWB),Social Welfare & Empowerment,myscheme.gov.in,eligible,eligible,eligible
+CP-099,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-021,IW600-MS-DL-002,Delhi Arogya Kosh,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-061,IW600-UK-GBR-057,Widowed Parent's Allowance,Disability Support,gov.uk,not eligible,eligible,not eligible
+CP-030,IW600-JS-CEN-005,PM SVANidhi (PM Street Vendor’s AtmaNirbhar Nidhi) Scheme - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,not eligible
+CP-055,IW600-MS-BR-012,Mukhyamantri Alpasankhyak Udyami Yojana,Business & Entrepreneurship,myscheme.gov.in,not eligible,eligible,not eligible
+CP-007,IW600-MS-MH-013,Savitribai Phule Scholarship For V.J.N.T. And S.B.C. Girl Students Studying In 5th To 7th Standard,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-004,IW600-TN-TN-067,Journalists Family Benefit Fund,Science & Technology,tn.gov.in,not eligible,not eligible,not eligible
+CP-002,IW600-MS-CH-012,Petrol Subsidy To Persons With Disability,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-077,IW600-MS-CG-001,Saraswati Cycle Yojana,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-052,IW600-MS-GJ-001,Mukhyamantri Mahila Utkarsh Yojana,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-052,IW600-MS-GJ-007,Scholarship/Stipend to SC Students for ITI/Professional Courses (Swami Vivekanand Scholarship),Education & Learning,myscheme.gov.in,eligible,eligible,eligible
+CP-080,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-075,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-007,IW600-MS-GA-003,Yuva Srujan Puraskar (Navsarjan Chetana Puraskar),Culture & Arts,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-085,IW600-TN-TN-125,Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme),Business & Entrepreneurship,tn.gov.in,not eligible,eligible,not eligible
+CP-020,IW600-UK-GBR-030,"Help if you're a student with a learning difficulty, health problem or disability",Disability Support,gov.uk,not eligible,eligible,not eligible
+CP-008,IW600-TN-TN-073,Large sized multi purpose Coop.Society Medium Term loan to Tribal members,Finance & Banking,tn.gov.in,not eligible,eligible,not eligible
+CP-044,IW600-MS-RJ-017,Ambedkar International Scholarship - SC,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-080,IW600-TN-TN-116,Special capital subsidy for thrust sector enterprises,Business & Entrepreneurship,tn.gov.in,not eligible,eligible,not eligible
+CP-042,IW600-MS-KA-001,Udyogini Scheme,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-034,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-016,IW600-MS-AP-018,Employee Health Scheme,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-013,IW600-MS-CEN-006,Mission Vatsalya (Child Protection Services and Child Welfare Services),Women & Child Welfare,myscheme.gov.in,eligible,eligible,eligible
+CP-073,IW600-MS-CEN-006,Mission Vatsalya (Child Protection Services and Child Welfare Services),Women & Child Welfare,myscheme.gov.in,not eligible,eligible,not eligible
+CP-049,IW600-MS-MH-007,State Post-metric Scholarship For Disabled,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-098,IW600-MS-AP-010,"40% Subsidy On Hank Yarn, Dyes & Chemicals Scheme",Business & Entrepreneurship,myscheme.gov.in,not eligible,eligible,not eligible
+CP-012,IW600-MS-AP-012,Kashyapa Scheme for Food & Shelter,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-082,IW600-UK-GBR-028,Guardian's Allowance,Disability Support,gov.uk,not eligible,not eligible,not eligible
+CP-019,IW600-MS-AP-016,INDIRAMMA Old Age Pension (Rural),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-097,IW600-TN-TN-053,District central Cooperative Banks and through its branches - For Working women,Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-019,IW600-MS-AP-018,Employee Health Scheme,Health & Medical,myscheme.gov.in,eligible,eligible,not eligible
+CP-063,IW600-JS-CEN-006,Agri-Clinic and Agribusiness Centers Scheme (ACABC) - Agriculture Infrastructure Loan,Agriculture & Rural Development,jansamarth.in,not eligible,eligible,eligible
+CP-050,IW600-TN-TN-039,Distribution of Minikits at free of cost,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-047,IW600-MS-MH-001,Homes For Intellectually Impaired Persons,Housing & Shelter,myscheme.gov.in,not eligible,eligible,not eligible
+CP-061,IW600-UK-GBR-041,Parents' Learning Allowance,Disability Support,gov.uk,not eligible,eligible,not eligible
+CP-047,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-083,IW600-MS-CG-001,Saraswati Cycle Yojana,Education & Learning,myscheme.gov.in,not eligible,eligible,not eligible
+CP-034,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-006,IW600-MS-UP-015,Artificial Limbs/Assistive Equipments Scheme,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-023,IW600-MS-BR-001,Chief Minister Divyangjan Empowerment Scheme (Sambal),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-092,IW600-US-USA-029,21st Century Community Learning Centers,Education & Learning,benefits.gov,not eligible,eligible,not eligible
+CP-006,IW600-JS-CEN-002,Kisan Credit Card Fisheries Scheme (KCCFIM),Agriculture & Rural Development,jansamarth.in,not eligible,not eligible,eligible
+CP-014,IW600-TN-TN-102,Production of Certified Seeds,Agriculture & Rural Development,tn.gov.in,not eligible,eligible,not eligible
+CP-004,IW600-TN-TN-117,Stamp duty exemption on mortgaged and pledged documents,Business & Entrepreneurship,tn.gov.in,eligible,eligible,eligible
+CP-056,IW600-MS-GJ-001,Mukhyamantri Mahila Utkarsh Yojana,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-039,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,not eligible,eligible
+CP-014,IW600-MS-DL-011,Merit Cum Means Linked Financial Assistance Scheme,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-060,IW600-MS-CEN-006,Mission Vatsalya (Child Protection Services and Child Welfare Services),Women & Child Welfare,myscheme.gov.in,not eligible,eligible,not eligible
+CP-065,IW600-MS-GA-013,Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen,Agriculture & Rural Development,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-006,IW600-TN-TN-106,Quality Paddy seed Distribution,Agriculture & Rural Development,tn.gov.in,eligible,eligible,eligible
+CP-099,IW600-MS-GA-020,Travel Grants To Goan Authors,Transport & Infrastructure,myscheme.gov.in,not eligible,eligible,not eligible
+CP-034,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-019,IW600-US-USA-021,VA Home Loan Guaranty,Veterans Benefits,benefits.gov,not eligible,not eligible,not eligible
+CP-015,IW600-MS-KL-008,KSCSTE Emeritus Scientist Scheme,Science & Technology,myscheme.gov.in,not eligible,eligible,not eligible
+CP-030,IW600-TN-TN-099,Primary Cooperative Agriculture and Rural Development Bank - For Tractor Purchase,Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-042,IW600-US-USA-045,Child and Dependent Care Tax Credit,Finance & Banking,benefits.gov,not eligible,not eligible,not eligible
+CP-050,IW600-US-USA-010,Indian Health Service (IHS),Health & Medical,benefits.gov,not eligible,not eligible,not eligible
+CP-029,IW600-MS-UP-019,Berojgari Bhatta Yojna,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-030,IW600-MS-CG-004,Asangathit Karmakaar Silai Machine Sahayata Yojana,Business & Entrepreneurship,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-084,IW600-JS-CEN-008,Credit Card for Micro Enterprises - Apply Online,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-006,IW600-TN-TN-131,Waiver of Earnest Money Deposit for participation in Tenders,Agriculture & Rural Development,tn.gov.in,eligible,eligible,eligible
+CP-014,IW600-MS-KL-008,KSCSTE Emeritus Scientist Scheme,Science & Technology,myscheme.gov.in,not eligible,eligible,not eligible
+CP-024,IW600-TN-TN-049,"District central Cooperative Banks and through its branches - For Revamped Micro credit loan for women vendors of flower, vegetable, fruit etc.,",Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-089,IW600-JS-CEN-011,Apply for Startup Loans under SCGSS Scheme - Government Startup Scheme,Business & Entrepreneurship,jansamarth.in,eligible,eligible,eligible
+CP-064,IW600-UK-GBR-022,Get a prescription prepayment certificate,Finance & Banking,gov.uk,not eligible,eligible,not eligible
+CP-006,IW600-TN-TN-094,Primary Cooperative Agriculture and Rural Development Bank - For Minor irrigation,Finance & Banking,tn.gov.in,eligible,eligible,eligible
+CP-089,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,not eligible
+CP-007,IW600-MS-RJ-018,Additional Financial Assistance for the Children of Persons Engaged in the Cleaning Profession,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-097,IW600-JS-CEN-006,Agri-Clinic and Agribusiness Centers Scheme (ACABC) - Agriculture Infrastructure Loan,Agriculture & Rural Development,jansamarth.in,not eligible,eligible,eligible
+CP-091,IW600-MS-CG-016,Medhavi Chhatr/Chhatra Shiksha Protsahan Yojana,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-097,IW600-JS-CEN-001,Solar Roof Top Scheme (SOLAR),Energy & Utilities,jansamarth.in,eligible,eligible,eligible
+CP-023,IW600-MS-HR-006,Financial Assistance To Destitute Children Scheme,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-091,IW600-MS-KL-006,Back-To-Lab Post-Doctoral Fellowship Programme,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-053,IW600-UK-GBR-002,Adoption pay and leave,Women & Child Welfare,gov.uk,not eligible,not eligible,not eligible
+CP-036,IW600-TN-TN-105,Production of Foundation Seeds,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-013,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-031,IW600-TN-TN-049,"District central Cooperative Banks and through its branches - For Revamped Micro credit loan for women vendors of flower, vegetable, fruit etc.,",Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-042,IW600-UK-GBR-020,Employment and Support Allowance (ESA),Disability Support,gov.uk,not eligible,not eligible,not eligible
+CP-063,IW600-JS-CEN-007,Weavers Mudra Scheme (WMS) - Business Loan,Business & Entrepreneurship,jansamarth.in,eligible,eligible,eligible
+CP-042,IW600-TN-TN-075,Livelihood activities for asset less persons - Sponsored By State Govt,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-100,IW600-JS-CEN-005,PM SVANidhi (PM Street Vendor’s AtmaNirbhar Nidhi) Scheme - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,not eligible
+CP-062,IW600-TN-TN-086,Postmatric Scholarship are sanctioned from 11th Standard to Research level as per the rates prescribed in the Scholarship Notitification,Education & Learning,tn.gov.in,not eligible,eligible,not eligible
+CP-098,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,eligible,eligible,not eligible
+CP-077,IW600-MS-CEN-004,National Agriculture Market,Agriculture & Rural Development,myscheme.gov.in,not eligible,eligible,eligible
+CP-004,IW600-JS-CEN-008,Credit Card for Micro Enterprises - Apply Online,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-084,IW600-MS-KL-001,Financial Assistance To Ex-Convicts,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-052,IW600-MS-GJ-013,Sant Surdas Scheme,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-060,IW600-UK-GBR-007,Bereavement Support Payment,Finance & Banking,gov.uk,not eligible,not eligible,not eligible
+CP-039,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-002,IW600-TN-TN-104,Production of Foundation and Certified Seeds,Agriculture & Rural Development,tn.gov.in,eligible,eligible,eligible
+CP-077,IW600-MS-CG-009,Tirth Barat Yojana,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-077,IW600-MS-AR-005,Chief Minister’s Yuva Kaushal Yojana,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-049,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,not eligible,eligible
+CP-006,IW600-TN-TN-087,PRE-MATRIC SCHOLARSHIP SCHEME,Education & Learning,tn.gov.in,not eligible,eligible,not eligible
+CP-024,IW600-MS-AP-018,Employee Health Scheme,Health & Medical,myscheme.gov.in,not eligible,eligible,not eligible
+CP-085,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-037,IW600-MS-RJ-002,Chief Minister Ekal Nari Samman Pension Yojana,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-038,IW600-UK-GBR-042,Paternity pay and leave,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-007,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-072,IW600-MS-RJ-020,Scholarship for Children of Ex-Servicemen for Vocational and Technical Education,Education & Learning,myscheme.gov.in,not eligible,eligible,not eligible
+CP-018,IW600-MS-CEN-003,PM Vishwakarma,Business & Entrepreneurship,myscheme.gov.in,not eligible,eligible,not eligible
+CP-007,IW600-MS-RJ-002,Chief Minister Ekal Nari Samman Pension Yojana,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-031,IW600-UK-GBR-022,Get a prescription prepayment certificate,Finance & Banking,gov.uk,not eligible,not eligible,not eligible
+CP-021,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,not eligible
+CP-083,IW600-US-USA-003,National School Lunch Program,Food & Nutrition,benefits.gov,not eligible,eligible,not eligible
+CP-048,IW600-UK-GBR-012,Child Benefit if a child or parent dies,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-076,IW600-MS-CG-009,Tirth Barat Yojana,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-045,IW600-MS-MH-009,Indira Gandhi National Widow Pension Scheme (Maharashtra),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-063,IW600-MS-BR-007,Financial Assistance for Marriage (BBOCWWB),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-096,IW600-UK-GBR-046,Shared Parental Leave and Pay,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-020,IW600-JS-CEN-005,PM SVANidhi (PM Street Vendor’s AtmaNirbhar Nidhi) Scheme - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,not eligible
+CP-048,IW600-MS-CG-017,Durghatana Mein Chikitsa Sahaayata Yojana,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-032,IW600-MS-CEN-006,Mission Vatsalya (Child Protection Services and Child Welfare Services),Women & Child Welfare,myscheme.gov.in,eligible,eligible,not eligible
+CP-047,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-014,IW600-MS-DL-002,Delhi Arogya Kosh,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-030,IW600-MS-MH-017,Maintenance Allowance To VJNT And SBC Students Studying In Professional Courses And Living In Hostel Attached To Professional Colleges,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-089,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-030,IW600-MS-AP-013,Sanction of Enhancement of Marriage Incentive Awards for Marriages Between Persons with Differently Abled and Normal Persons,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-058,IW600-MS-GJ-013,Sant Surdas Scheme,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-022,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,not eligible,eligible
+CP-062,IW600-MS-BR-009,Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Total Permanent Disability,Health & Medical,myscheme.gov.in,not eligible,eligible,not eligible
+CP-045,IW600-JS-CEN-010,List of All Credit Linked Government Schemes of India,Social Welfare & Empowerment,jansamarth.in,not eligible,eligible,not eligible
+CP-012,IW600-MS-HP-002,Industrial Skill Development Allowance To The New Employees Employed In Industries In H.p,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-061,IW600-UK-GBR-053,Unpaid parental leave,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-046,IW600-MS-MH-011,Indira Gandhi National Old Age Pension Scheme (Maharashtra),Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-100,IW600-JS-CEN-015,Deendayal Antyodaya Yojana-National Rural Livelihoods Mission (DAY-NRLM) - Livelihood Loan,Agriculture & Rural Development,jansamarth.in,not eligible,eligible,not eligible
+CP-082,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-072,IW600-UK-GBR-018,Disability Living Allowance (DLA) for children,Disability Support,gov.uk,not eligible,not eligible,not eligible
+CP-014,IW600-MS-KL-019,Aswasakiranam,Health & Medical,myscheme.gov.in,eligible,eligible,eligible
+CP-077,IW600-UK-GBR-025,Get help with NHS prescriptions and health costs,Finance & Banking,gov.uk,not eligible,eligible,not eligible
+CP-001,IW600-UK-GBR-013,Child Benefit when your child turns 16,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-031,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,not eligible,eligible
+CP-008,IW600-UK-GBR-026,Get help with funeral costs (Funeral Expenses Payment),Finance & Banking,gov.uk,not eligible,not eligible,not eligible
+CP-072,IW600-MS-CH-013,Financial Assistance to Physically/Mentally Disabled Children of Beneficiary (CBOCWWB),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-005,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-051,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-006,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-030,IW600-JS-CEN-010,List of All Credit Linked Government Schemes of India,Social Welfare & Empowerment,jansamarth.in,not eligible,eligible,not eligible
+CP-046,IW600-MS-MH-009,Indira Gandhi National Widow Pension Scheme (Maharashtra),Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-087,IW600-JS-CEN-011,Apply for Startup Loans under SCGSS Scheme - Government Startup Scheme,Business & Entrepreneurship,jansamarth.in,not eligible,not eligible,eligible
+CP-055,IW600-UK-GBR-046,Shared Parental Leave and Pay,Women & Child Welfare,gov.uk,not eligible,not eligible,not eligible
+CP-008,IW600-MS-KA-020,Vrutti Protsaha Loan Scheme,Employment & Skills,myscheme.gov.in,eligible,eligible,not eligible
+CP-023,IW600-MS-SK-001,Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Export Oriented Production:Large Cardamom Replanting/New planting (Ha),Agriculture & Rural Development,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-027,IW600-UK-GBR-018,Disability Living Allowance (DLA) for children,Disability Support,gov.uk,not eligible,not eligible,not eligible
+CP-040,IW600-MS-KL-002,Marriage Assistance For Legally Married Transgender Couples,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-045,IW600-MS-MH-005,LIDCOM Gattai Stall Scheme,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,not eligible
+CP-024,IW600-MS-AP-020,Bhargava Matching Scheme,Business & Entrepreneurship,myscheme.gov.in,not eligible,not eligible,eligible
+CP-094,IW600-MS-AS-013,Chief Minister's Jeevan Jyoti Swaniyojan Yojana,Employment & Skills,myscheme.gov.in,eligible,eligible,eligible
+CP-065,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,eligible,not eligible
+CP-020,IW600-US-USA-009,Ryan White HIV/AIDS Program,Health & Medical,benefits.gov,not eligible,not eligible,not eligible
+CP-085,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-015,IW600-MS-KL-017,Vidyakiranam Scheme-Educational Assistance To Children Of Disabled Parents,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-091,IW600-JS-CEN-010,List of All Credit Linked Government Schemes of India,Social Welfare & Empowerment,jansamarth.in,not eligible,eligible,not eligible
+CP-036,IW600-JS-CEN-009,Agriculture Infrastructure Fund Scheme (AIF) - Agriculture Infrastructure Loan,Agriculture & Rural Development,jansamarth.in,eligible,eligible,eligible
+CP-024,IW600-UK-GBR-037,Maternity pay and leave,Women & Child Welfare,gov.uk,not eligible,not eligible,not eligible
+CP-007,IW600-US-USA-013,HOME Investment Partnerships Program,Housing & Shelter,benefits.gov,not eligible,eligible,not eligible
+CP-015,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-060,IW600-TN-TN-028,Burial Ground - Provision of Burial Grounds and pathway to Burial Grounds,Social Welfare & Empowerment,tn.gov.in,not eligible,eligible,not eligible
+CP-042,IW600-TN-TN-042,Distribution of Rhizobium Packets - Oilseeds,Agriculture & Rural Development,tn.gov.in,not eligible,eligible,not eligible
+CP-023,IW600-JS-CEN-002,Kisan Credit Card Fisheries Scheme (KCCFIM),Agriculture & Rural Development,jansamarth.in,not eligible,eligible,not eligible
+CP-022,IW600-MS-AP-010,"40% Subsidy On Hank Yarn, Dyes & Chemicals Scheme",Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,not eligible
+CP-065,IW600-TN-TN-007,Adi Dravidar and Tribal Welfare Department - Stationary - Text Books,Social Welfare & Empowerment,tn.gov.in,not eligible,eligible,not eligible
+CP-062,IW600-UK-GBR-005,Attendance Allowance,Disability Support,gov.uk,not eligible,not eligible,not eligible
+CP-041,IW600-MS-DL-004,Pension Benefit for the Construction Workers,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-030,IW600-MS-UP-002,Shop Construction/Shop Operation Scheme For Rehabilitation Of PwDs,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-083,IW600-US-USA-010,Indian Health Service (IHS),Health & Medical,benefits.gov,not eligible,eligible,not eligible
+CP-085,IW600-UK-GBR-025,Get help with NHS prescriptions and health costs,Finance & Banking,gov.uk,not eligible,eligible,not eligible
+CP-062,IW600-UK-GBR-043,Pension Credit,Pension & Social Security,gov.uk,not eligible,not eligible,not eligible
+CP-097,IW600-TN-TN-096,Primary Cooperative Agriculture and Rural Development Bank - For Poultry development,Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-013,IW600-TN-TN-014,Application for sanction of subsidy for the purchase of Generator Set,Business & Entrepreneurship,tn.gov.in,not eligible,not eligible,not eligible
+CP-020,IW600-UK-GBR-031,High Income Child Benefit Charge,Women & Child Welfare,gov.uk,not eligible,eligible,not eligible
+CP-054,IW600-MS-GJ-013,Sant Surdas Scheme,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-026,IW600-MS-UP-005,Marriage Grant Scheme,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-017,IW600-MS-AS-012,Bidya Lakshmi Loan,Education & Learning,myscheme.gov.in,not eligible,eligible,not eligible
+CP-042,IW600-MS-AS-005,Financial Assistance for ANM/GNM/Technical Courses,Health & Medical,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-042,IW600-MS-KL-013,Scheme For Providing Assistive Devices To Differently Abled Persons,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-030,IW600-MS-UP-019,Berojgari Bhatta Yojna,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-030,IW600-MS-UP-011,SC/ST Pre Matric Scholarship - Uttar Pradesh,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-096,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-010,IW600-JS-CEN-001,Solar Roof Top Scheme (SOLAR),Energy & Utilities,jansamarth.in,eligible,eligible,eligible
+CP-063,IW600-MS-BR-006,Mukhyamantri Shramshakti Yojana,Employment & Skills,myscheme.gov.in,not eligible,eligible,not eligible
+CP-062,IW600-MS-BR-013,Mukhyamantri Gramin Peyjal Nishchay Yojana,Energy & Utilities,myscheme.gov.in,eligible,eligible,eligible
+CP-079,IW600-TN-TN-085,Pipes carrying water from source to field - Pulses ISPOM,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-024,IW600-MS-AP-006,Sanction of Motorized Three Wheeler to Orthopedically Challenged,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-042,IW600-MS-KL-004,Kerala Biotechnology Re-Entry Fellowship,Education & Learning,myscheme.gov.in,not eligible,eligible,not eligible
+CP-097,IW600-MS-UP-004,Surgical Grant For The Prevention Of Disability,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-085,IW600-JS-CEN-007,Weavers Mudra Scheme (WMS) - Business Loan,Business & Entrepreneurship,jansamarth.in,eligible,eligible,eligible
+CP-004,IW600-TN-TN-044,"District central Cooperative Banks and through its branches - For Consumer durables T.V., Fridge and two wheelers loan.",Finance & Banking,tn.gov.in,eligible,eligible,eligible
+CP-009,IW600-MS-KA-012,Skill Development Training Karnataka,Employment & Skills,myscheme.gov.in,not eligible,eligible,not eligible
+CP-083,IW600-MS-HP-006,Kalpana Chawla Chatravriti Yojana,Education & Learning,myscheme.gov.in,not eligible,eligible,not eligible
+CP-018,IW600-MS-KL-019,Aswasakiranam,Health & Medical,myscheme.gov.in,eligible,eligible,not eligible
+CP-042,IW600-TN-TN-108,Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises,Business & Entrepreneurship,tn.gov.in,not eligible,eligible,not eligible
+CP-030,IW600-MS-KA-004,Pension Scheme (K.B.O.C.W.W.B),Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-002,IW600-TN-TN-091,Primary Cooperative Agriculture and Rural Development Bank - For Handloom and other non farm sector activities,Finance & Banking,tn.gov.in,eligible,eligible,eligible
+CP-076,IW600-US-USA-037,Adoption Assistance Program,Women & Child Welfare,benefits.gov,not eligible,not eligible,not eligible
+CP-084,IW600-UK-GBR-037,Maternity pay and leave,Women & Child Welfare,gov.uk,not eligible,not eligible,not eligible
+CP-055,IW600-UK-GBR-048,Statutory Sick Pay (SSP),Finance & Banking,gov.uk,not eligible,eligible,not eligible
+CP-028,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-013,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-063,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-048,IW600-MS-CEN-001,Post Office Monthly Income Scheme,Finance & Banking,myscheme.gov.in,not eligible,eligible,eligible
+CP-014,IW600-UK-GBR-059,"Your benefits, tax and pension after the death of a partner",Pension & Social Security,gov.uk,not eligible,eligible,not eligible
+CP-067,IW600-MS-MH-001,Homes For Intellectually Impaired Persons,Housing & Shelter,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-030,IW600-JS-CEN-012,Emergency Credit Line Guarantee Scheme (ECLGS) - Apply Online,Finance & Banking,jansamarth.in,eligible,eligible,eligible
+CP-057,IW600-MS-GJ-013,Sant Surdas Scheme,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-011,IW600-MS-KA-015,Interest Subvention Scheme,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-009,IW600-MS-CEN-003,PM Vishwakarma,Business & Entrepreneurship,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-066,IW600-TN-TN-019,Assistance for Funeral Rites,Social Welfare & Empowerment,tn.gov.in,not eligible,eligible,not eligible
+CP-007,IW600-MS-KA-004,Pension Scheme (K.B.O.C.W.W.B),Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-015,IW600-MS-HP-006,Kalpana Chawla Chatravriti Yojana,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-023,IW600-TN-TN-005,Adi Dravidar and Tribal Welfare Department -Scholarship - Free Education upto 12th Std. to all i.e. tuition fee will not be collected and the amount will be reimbursed by Government.,Social Welfare & Empowerment,tn.gov.in,not eligible,eligible,not eligible
+CP-094,IW600-MS-KL-002,Marriage Assistance For Legally Married Transgender Couples,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-019,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-082,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-058,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,eligible,not eligible
+CP-002,IW600-TN-TN-131,Waiver of Earnest Money Deposit for participation in Tenders,Agriculture & Rural Development,tn.gov.in,eligible,eligible,eligible
+CP-015,IW600-MS-KL-011,Educational Assistance For Children Of Victims Of Crime,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-080,IW600-JS-CEN-006,Agri-Clinic and Agribusiness Centers Scheme (ACABC) - Agriculture Infrastructure Loan,Agriculture & Rural Development,jansamarth.in,not eligible,eligible,eligible
+CP-055,IW600-MS-RJ-018,Additional Financial Assistance for the Children of Persons Engaged in the Cleaning Profession,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-094,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,eligible,not eligible
+CP-092,IW600-TN-TN-106,Quality Paddy seed Distribution,Agriculture & Rural Development,tn.gov.in,not eligible,eligible,not eligible
+CP-041,IW600-US-USA-029,21st Century Community Learning Centers,Education & Learning,benefits.gov,not eligible,eligible,not eligible
+CP-052,IW600-JS-CEN-004,Home Loan Pradhan Mantri Awas Yojana Urban 2.0 Scheme (PMAY-U),Housing & Shelter,jansamarth.in,eligible,eligible,eligible
+CP-042,IW600-MS-BR-010,Mukhyamantri Bagwani Mission: Dragon Fruit Vikas Yojana,Agriculture & Rural Development,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-097,IW600-TN-TN-025,Awards to Bright Students,Social Welfare & Empowerment,tn.gov.in,not eligible,eligible,not eligible
+CP-006,IW600-TN-TN-055,Employees Cooperative societies Surety loan,Finance & Banking,tn.gov.in,eligible,eligible,eligible
+CP-038,IW600-TN-TN-049,"District central Cooperative Banks and through its branches - For Revamped Micro credit loan for women vendors of flower, vegetable, fruit etc.,",Finance & Banking,tn.gov.in,not eligible,eligible,not eligible
+CP-033,IW600-MS-AR-005,Chief Minister’s Yuva Kaushal Yojana,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-056,IW600-UK-GBR-014,Child Maintenance Service,Women & Child Welfare,gov.uk,not eligible,not eligible,not eligible
+CP-040,IW600-UK-GBR-045,Reduced Earnings Allowance,Disability Support,gov.uk,not eligible,not eligible,not eligible
+CP-023,IW600-MS-AP-002,Sanction of Adult Sticks to Senior Citizens,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-080,IW600-JS-CEN-007,Weavers Mudra Scheme (WMS) - Business Loan,Business & Entrepreneurship,jansamarth.in,eligible,eligible,eligible
+CP-063,IW600-MS-CEN-005,Self Employment Scheme For Rehabilitation Of Manual Scavengers,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-016,IW600-UK-GBR-018,Disability Living Allowance (DLA) for children,Disability Support,gov.uk,not eligible,not eligible,not eligible
+CP-055,IW600-MS-GJ-018,Scheme to Provide Financial Assistance to Farmers for Purchasing Sanedo Agricultural Equipment,Agriculture & Rural Development,myscheme.gov.in,eligible,eligible,eligible
+CP-007,IW600-MS-KL-011,Educational Assistance For Children Of Victims Of Crime,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-007,IW600-MS-GA-013,Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen,Agriculture & Rural Development,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-097,IW600-TN-TN-017,Assistance for delivery of a child,Culture & Arts,tn.gov.in,not eligible,eligible,not eligible
+CP-055,IW600-MS-UP-002,Shop Construction/Shop Operation Scheme For Rehabilitation Of PwDs,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-004,IW600-JS-CEN-013,Prime Minister Employment Generation Program Scheme (PMEGP) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,not eligible
+CP-051,IW600-MS-MH-015,Special Education And Vocational Training Through Government Institutions,Education & Learning,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-075,IW600-MS-CEN-002,Pradhan Mantri Bhartiya Janaushadhi Pariyojana,Business & Entrepreneurship,myscheme.gov.in,eligible,eligible,eligible
+CP-043,IW600-MS-KA-020,Vrutti Protsaha Loan Scheme,Employment & Skills,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-050,IW600-UK-GBR-004,Apply for free school meals,Finance & Banking,gov.uk,not eligible,eligible,not eligible
+CP-023,IW600-TN-TN-073,Large sized multi purpose Coop.Society Medium Term loan to Tribal members,Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-011,IW600-TN-TN-085,Pipes carrying water from source to field - Pulses ISPOM,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-022,IW600-TN-TN-063,Grant-cum-loan scheme for small and medium farmers,Finance & Banking,tn.gov.in,not eligible,not eligible,not eligible
+CP-046,IW600-MS-AN-005,Incentive Scheme For The Electricity Consumers Under Various Categories In Andaman & Nicobar Islands,Energy & Utilities,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-002,IW600-MS-KL-011,Educational Assistance For Children Of Victims Of Crime,Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-058,IW600-MS-GJ-001,Mukhyamantri Mahila Utkarsh Yojana,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-023,IW600-MS-CG-002,"Mukhyamantri Raut, Charavaaha Evan Doodh Duhane Vaale Saayakal Sahaayata Yojana",Social Welfare & Empowerment,myscheme.gov.in,not eligible,not eligible,not eligible
+CP-035,IW600-MS-RJ-019,Transgender Utthan Kosh - College/Higher/Technical Educational Fees Refund for Transgender Students,Education & Learning,myscheme.gov.in,not eligible,eligible,not eligible
+CP-048,IW600-JS-CEN-001,Solar Roof Top Scheme (SOLAR),Energy & Utilities,jansamarth.in,eligible,eligible,eligible
+CP-079,IW600-JS-CEN-002,Kisan Credit Card Fisheries Scheme (KCCFIM),Agriculture & Rural Development,jansamarth.in,not eligible,eligible,eligible
+CP-040,IW600-TN-TN-034,Distribution of Certified Seeds of maize,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-097,IW600-JS-CEN-003,Pradhan Mantri Mudra Yojana Scheme (PMMY) - Business Loan,Business & Entrepreneurship,jansamarth.in,not eligible,eligible,eligible
+CP-023,IW600-TN-TN-057,Farmers Training,Agriculture & Rural Development,tn.gov.in,not eligible,not eligible,not eligible
+CP-061,IW600-MS-BR-018,Indira Gandhi National Disability Pension Scheme- Bihar,Social Welfare & Empowerment,myscheme.gov.in,not eligible,eligible,not eligible
+CP-026,IW600-UK-GBR-001,Access to Work: get support if you have a disability or health condition,Disability Support,gov.uk,not eligible,unknown,not eligible
+CP-033,IW600-UK-GBR-001,Access to Work: get support if you have a disability or health condition,Disability Support,gov.uk,not eligible,unknown,not eligible
+CP-001,IW600-UK-GBR-005,Attendance Allowance,Disability Support,gov.uk,not eligible,unknown,not eligible
+CP-008,IW600-UK-GBR-020,Employment and Support Allowance (ESA),Disability Support,gov.uk,not eligible,unknown,not eligible
+CP-079,IW600-US-USA-049,Senior Community Service Employment Program (SCSEP),Pension & Social Security,benefits.gov,eligible,unknown,not eligible
+CP-038,IW600-UK-GBR-043,Pension Credit,Pension & Social Security,gov.uk,not eligible,unknown,not eligible
+CP-044,IW600-UK-GBR-043,Pension Credit,Pension & Social Security,gov.uk,not eligible,unknown,not eligible
+CP-001,IW600-US-USA-004,Child and Adult Care Food Program (CACFP),Food & Nutrition,benefits.gov,not eligible,unknown,not eligible
+CP-038,IW600-US-USA-004,Child and Adult Care Food Program (CACFP),Food & Nutrition,benefits.gov,not eligible,unknown,not eligible
+CP-101,IW600-TN-TN-022,Assistance for purchase of Spectacles,Culture & Arts,tn.gov.in,eligible,unknown,eligible
+CP-101,IW600-TN-TN-017,Assistance for delivery of a child,Culture & Arts,tn.gov.in,eligible,unknown,eligible
+CP-102,IW600-MS-GA-003,Yuva Srujan Puraskar (Navsarjan Chetana Puraskar),Culture & Arts,myscheme.gov.in,eligible,unknown,eligible
+CP-103,IW600-US-USA-021,VA Home Loan Guaranty,Veterans Benefits,benefits.gov,eligible,unknown,eligible
+CP-103,IW600-US-USA-024,VA Caregiver Support Program,Veterans Benefits,benefits.gov,eligible,unknown,eligible
+CP-104,IW600-MS-KL-008,KSCSTE Emeritus Scientist Scheme,Science & Technology,myscheme.gov.in,eligible,unknown,eligible
+CP-102,IW600-MS-GA-020,Travel Grants To Goan Authors,Transport & Infrastructure,myscheme.gov.in,eligible,unknown,eligible
+CP-105,IW600-US-USA-001,Supplemental Nutrition Assistance Program (SNAP),Food & Nutrition,benefits.gov,eligible,unknown,eligible
+CP-105,IW600-UK-GBR-043,Pension Credit,Pension & Social Security,gov.uk,not eligible,unknown,not eligible
+CP-106,IW600-JS-CEN-014,NAMASTE Scheme,Social Welfare & Empowerment,jansamarth.in,eligible,unknown,eligible
+CP-107,IW600-JS-CEN-014,NAMASTE Scheme,Social Welfare & Empowerment,jansamarth.in,eligible,unknown,eligible
+CP-108,IW600-JS-CEN-014,NAMASTE Scheme,Social Welfare & Empowerment,jansamarth.in,eligible,unknown,eligible
+CP-109,IW600-UK-GBR-001,Access to Work: get support if you have a disability or health condition,Disability Support,gov.uk,eligible,unknown,not eligible
+CP-110,IW600-UK-GBR-005,Attendance Allowance,Disability Support,gov.uk,eligible,unknown,not eligible
+CP-109,IW600-UK-GBR-020,Employment and Support Allowance (ESA),Disability Support,gov.uk,eligible,unknown,eligible
+CP-110,IW600-UK-GBR-043,Pension Credit,Pension & Social Security,gov.uk,eligible,unknown,eligible

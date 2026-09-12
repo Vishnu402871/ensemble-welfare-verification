@@ -1,0 +1,522 @@
+citizen_id,scheme_id,rag_lenient_pred
+CP-097,IW600-UK-GBR-015,not eligible
+CP-030,IW600-MS-GJ-004,not eligible
+CP-043,IW600-UK-GBR-054,not eligible
+CP-022,IW600-MS-CEN-002,eligible
+CP-096,IW600-MS-CEN-001,eligible
+CP-038,IW600-MS-RJ-015,eligible
+CP-090,IW600-JS-CEN-015,not eligible
+CP-065,IW600-US-USA-032,eligible
+CP-080,IW600-MS-CG-009,not eligible
+CP-021,IW600-JS-CEN-006,eligible
+CP-011,IW600-US-USA-004,eligible
+CP-011,IW600-UK-GBR-057,eligible
+CP-081,IW600-MS-CEN-001,eligible
+CP-091,IW600-MS-AR-019,eligible
+CP-060,IW600-MS-BR-006,eligible
+CP-086,IW600-MS-CEN-003,not eligible
+CP-037,IW600-UK-GBR-038,eligible
+CP-091,IW600-MS-CEN-002,not eligible
+CP-069,IW600-US-USA-001,not eligible
+CP-055,IW600-MS-CG-008,not eligible
+CP-093,IW600-MS-CEN-006,eligible
+CP-046,IW600-UK-GBR-004,eligible
+CP-081,IW600-JS-CEN-010,eligible
+CP-027,IW600-JS-CEN-004,eligible
+CP-039,IW600-JS-CEN-012,eligible
+CP-013,IW600-MS-KL-009,eligible
+CP-092,IW600-MS-AR-011,eligible
+CP-093,IW600-UK-GBR-057,not eligible
+CP-029,IW600-JS-CEN-013,eligible
+CP-077,IW600-TN-TN-060,eligible
+CP-016,IW600-MS-KL-010,not eligible
+CP-009,IW600-MS-CEN-005,not eligible
+CP-035,IW600-JS-CEN-010,eligible
+CP-094,IW600-US-USA-014,not eligible
+CP-051,IW600-MS-BR-014,not eligible
+CP-097,IW600-TN-TN-090,eligible
+CP-023,IW600-JS-CEN-012,eligible
+CP-044,IW600-MS-HR-020,not eligible
+CP-084,IW600-TN-TN-053,not eligible
+CP-015,IW600-MS-KL-003,eligible
+CP-078,IW600-MS-CG-011,eligible
+CP-025,IW600-MS-GA-013,not eligible
+CP-091,IW600-MS-CEN-001,eligible
+CP-079,IW600-MS-CG-017,eligible
+CP-052,IW600-UK-GBR-013,eligible
+CP-055,IW600-JS-CEN-004,eligible
+CP-046,IW600-UK-GBR-026,eligible
+CP-084,IW600-MS-CEN-005,eligible
+CP-046,IW600-UK-GBR-016,not eligible
+CP-072,IW600-MS-GJ-017,not eligible
+CP-100,IW600-JS-CEN-013,eligible
+CP-095,IW600-JS-CEN-004,eligible
+CP-091,IW600-MS-AN-023,eligible
+CP-023,IW600-UK-GBR-012,eligible
+CP-023,IW600-MS-AR-001,not eligible
+CP-087,IW600-MS-CEN-001,eligible
+CP-097,IW600-JS-CEN-011,eligible
+CP-074,IW600-JS-CEN-012,eligible
+CP-023,IW600-MS-HR-013,not eligible
+CP-063,IW600-TN-TN-044,not eligible
+CP-055,IW600-UK-GBR-033,eligible
+CP-057,IW600-US-USA-049,eligible
+CP-024,IW600-MS-KL-001,not eligible
+CP-055,IW600-MS-CEN-004,eligible
+CP-019,IW600-MS-AP-017,not eligible
+CP-021,IW600-JS-CEN-010,eligible
+CP-097,IW600-US-USA-026,not eligible
+CP-072,IW600-TN-TN-116,not eligible
+CP-064,IW600-MS-BR-019,not eligible
+CP-051,IW600-MS-MH-001,eligible
+CP-092,IW600-MS-AR-019,not eligible
+CP-036,IW600-MS-CEN-001,not eligible
+CP-007,IW600-MS-MH-009,not eligible
+CP-008,IW600-JS-CEN-010,eligible
+CP-072,IW600-JS-CEN-001,eligible
+CP-091,IW600-US-USA-009,eligible
+CP-085,IW600-MS-HP-002,not eligible
+CP-086,IW600-US-USA-001,not eligible
+CP-040,IW600-UK-GBR-058,not eligible
+CP-020,IW600-UK-GBR-015,not eligible
+CP-041,IW600-JS-CEN-012,eligible
+CP-023,IW600-MS-HP-008,not eligible
+CP-078,IW600-TN-TN-052,eligible
+CP-030,IW600-TN-TN-002,eligible
+CP-090,IW600-MS-CEN-005,not eligible
+CP-043,IW600-MS-MH-019,not eligible
+CP-021,IW600-MS-CEN-006,eligible
+CP-033,IW600-JS-CEN-004,eligible
+CP-080,IW600-JS-CEN-001,eligible
+CP-018,IW600-MS-KA-020,not eligible
+CP-042,IW600-MS-CH-008,not eligible
+CP-047,IW600-UK-GBR-054,not eligible
+CP-022,IW600-TN-TN-080,not eligible
+CP-065,IW600-MS-DN-002,not eligible
+CP-062,IW600-JS-CEN-013,eligible
+CP-030,IW600-MS-GJ-016,not eligible
+CP-084,IW600-JS-CEN-013,eligible
+CP-040,IW600-TN-TN-074,not eligible
+CP-015,IW600-MS-KA-015,not eligible
+CP-038,IW600-MS-CEN-001,eligible
+CP-024,IW600-JS-CEN-012,eligible
+CP-063,IW600-TN-TN-115,not eligible
+CP-030,IW600-JS-CEN-009,not eligible
+CP-015,IW600-MS-RJ-014,not eligible
+CP-001,IW600-TN-TN-055,eligible
+CP-097,IW600-JS-CEN-004,eligible
+CP-091,IW600-US-USA-024,not eligible
+CP-064,IW600-MS-BR-012,eligible
+CP-058,IW600-TN-TN-130,not eligible
+CP-087,IW600-MS-CEN-002,eligible
+CP-061,IW600-MS-GJ-009,eligible
+CP-100,IW600-US-USA-045,eligible
+CP-080,IW600-UK-GBR-010,eligible
+CP-007,IW600-MS-GJ-016,not eligible
+CP-048,IW600-MS-GA-005,not eligible
+CP-040,IW600-UK-GBR-032,eligible
+CP-002,IW600-MS-CG-017,not eligible
+CP-067,IW600-MS-CEN-001,not eligible
+CP-074,IW600-MS-SK-001,eligible
+CP-002,IW600-TN-TN-094,eligible
+CP-055,IW600-MS-KL-015,not eligible
+CP-030,IW600-MS-UP-004,not eligible
+CP-032,IW600-TN-TN-086,eligible
+CP-016,IW600-MS-KL-002,eligible
+CP-091,IW600-MS-AR-007,eligible
+CP-050,IW600-JS-CEN-012,eligible
+CP-036,IW600-UK-GBR-059,eligible
+CP-025,IW600-JS-CEN-014,eligible
+CP-015,IW600-MS-CEN-003,eligible
+CP-028,IW600-MS-UP-002,not eligible
+CP-067,IW600-TN-TN-052,not eligible
+CP-001,IW600-JS-CEN-004,eligible
+CP-049,IW600-TN-TN-053,not eligible
+CP-021,IW600-MS-AP-013,not eligible
+CP-032,IW600-UK-GBR-028,not eligible
+CP-064,IW600-MS-BR-006,eligible
+CP-042,IW600-UK-GBR-011,eligible
+CP-015,IW600-TN-TN-099,not eligible
+CP-078,IW600-TN-TN-082,not eligible
+CP-096,IW600-MS-KA-008,eligible
+CP-093,IW600-MS-CEN-001,eligible
+CP-042,IW600-US-USA-008,eligible
+CP-079,IW600-MS-CEN-002,eligible
+CP-042,IW600-TN-TN-022,eligible
+CP-047,IW600-MS-MH-009,eligible
+CP-059,IW600-JS-CEN-006,eligible
+CP-045,IW600-UK-GBR-049,eligible
+CP-023,IW600-MS-KL-019,not eligible
+CP-073,IW600-JS-CEN-010,eligible
+CP-096,IW600-MS-KA-015,eligible
+CP-055,IW600-TN-TN-125,not eligible
+CP-011,IW600-JS-CEN-012,eligible
+CP-007,IW600-UK-GBR-025,eligible
+CP-072,IW600-MS-KA-020,not eligible
+CP-100,IW600-UK-GBR-037,eligible
+CP-079,IW600-UK-GBR-017,eligible
+CP-096,IW600-JS-CEN-001,eligible
+CP-007,IW600-MS-UP-018,not eligible
+CP-001,IW600-MS-CEN-005,eligible
+CP-079,IW600-TN-TN-010,not eligible
+CP-016,IW600-TN-TN-073,not eligible
+CP-078,IW600-MS-CG-016,eligible
+CP-061,IW600-MS-CG-017,not eligible
+CP-007,IW600-JS-CEN-014,eligible
+CP-091,IW600-MS-UP-007,not eligible
+CP-017,IW600-MS-CEN-005,eligible
+CP-056,IW600-MS-GJ-016,not eligible
+CP-035,IW600-JS-CEN-004,eligible
+CP-059,IW600-JS-CEN-007,eligible
+CP-006,IW600-TN-TN-057,eligible
+CP-053,IW600-MS-GJ-001,eligible
+CP-013,IW600-MS-KA-009,not eligible
+CP-066,IW600-UK-GBR-058,not eligible
+CP-015,IW600-MS-CEN-005,not eligible
+CP-048,IW600-MS-MH-003,not eligible
+CP-029,IW600-MS-UP-017,eligible
+CP-081,IW600-US-USA-043,not eligible
+CP-015,IW600-MS-KA-018,not eligible
+CP-097,IW600-MS-RJ-006,not eligible
+CP-005,IW600-TN-TN-050,eligible
+CP-030,IW600-JS-CEN-001,eligible
+CP-097,IW600-MS-AS-008,not eligible
+CP-020,IW600-MS-AP-005,not eligible
+CP-073,IW600-JS-CEN-006,eligible
+CP-091,IW600-JS-CEN-012,eligible
+CP-002,IW600-UK-GBR-001,eligible
+CP-063,IW600-MS-BR-001,eligible
+CP-064,IW600-UK-GBR-030,not eligible
+CP-042,IW600-TN-TN-087,not eligible
+CP-088,IW600-MS-CEN-005,eligible
+CP-004,IW600-MS-CEN-002,eligible
+CP-083,IW600-TN-TN-042,not eligible
+CP-048,IW600-UK-GBR-021,not eligible
+CP-026,IW600-MS-UP-003,eligible
+CP-046,IW600-MS-AS-019,not eligible
+CP-017,IW600-UK-GBR-051,eligible
+CP-013,IW600-MS-AP-013,eligible
+CP-026,IW600-JS-CEN-015,eligible
+CP-090,IW600-MS-CEN-002,eligible
+CP-081,IW600-TN-TN-053,eligible
+CP-088,IW600-JS-CEN-013,eligible
+CP-081,IW600-UK-GBR-051,eligible
+CP-015,IW600-MS-KL-018,not eligible
+CP-091,IW600-UK-GBR-018,not eligible
+CP-060,IW600-JS-CEN-006,eligible
+CP-005,IW600-MS-AN-003,not eligible
+CP-030,IW600-TN-TN-103,not eligible
+CP-048,IW600-MS-MH-011,eligible
+CP-082,IW600-JS-CEN-011,eligible
+CP-097,IW600-TN-TN-127,not eligible
+CP-097,IW600-MS-KA-011,eligible
+CP-012,IW600-MS-AN-011,eligible
+CP-015,IW600-TN-TN-073,not eligible
+CP-069,IW600-UK-GBR-039,not eligible
+CP-072,IW600-UK-GBR-033,eligible
+CP-029,IW600-US-USA-033,eligible
+CP-031,IW600-JS-CEN-004,eligible
+CP-047,IW600-JS-CEN-003,eligible
+CP-055,IW600-MS-HP-014,not eligible
+CP-050,IW600-MS-MH-014,unknown
+CP-030,IW600-US-USA-009,not eligible
+CP-021,IW600-MS-AP-017,not eligible
+CP-051,IW600-MS-CEN-002,eligible
+CP-057,IW600-MS-GJ-001,not eligible
+CP-083,IW600-MS-AP-006,eligible
+CP-040,IW600-US-USA-010,not eligible
+CP-008,IW600-MS-CEN-002,eligible
+CP-100,IW600-US-USA-033,eligible
+CP-063,IW600-MS-CEN-002,not eligible
+CP-091,IW600-US-USA-012,not eligible
+CP-011,IW600-TN-TN-015,eligible
+CP-055,IW600-US-USA-023,not eligible
+CP-100,IW600-US-USA-019,eligible
+CP-022,IW600-MS-AP-005,not eligible
+CP-073,IW600-JS-CEN-013,eligible
+CP-015,IW600-MS-RJ-017,not eligible
+CP-055,IW600-MS-HP-004,eligible
+CP-092,IW600-MS-AR-007,eligible
+CP-099,IW600-JS-CEN-004,eligible
+CP-021,IW600-MS-DL-002,not eligible
+CP-061,IW600-UK-GBR-057,eligible
+CP-030,IW600-JS-CEN-005,eligible
+CP-055,IW600-MS-BR-012,eligible
+CP-007,IW600-MS-MH-013,not eligible
+CP-004,IW600-TN-TN-067,not eligible
+CP-002,IW600-MS-CH-012,not eligible
+CP-077,IW600-MS-CG-001,not eligible
+CP-052,IW600-MS-GJ-001,not eligible
+CP-052,IW600-MS-GJ-007,eligible
+CP-080,IW600-JS-CEN-013,eligible
+CP-075,IW600-JS-CEN-004,eligible
+CP-007,IW600-MS-GA-003,not eligible
+CP-085,IW600-TN-TN-125,eligible
+CP-020,IW600-UK-GBR-030,eligible
+CP-008,IW600-TN-TN-073,eligible
+CP-044,IW600-MS-RJ-017,not eligible
+CP-080,IW600-TN-TN-116,eligible
+CP-042,IW600-MS-KA-001,not eligible
+CP-034,IW600-JS-CEN-013,eligible
+CP-016,IW600-MS-AP-018,not eligible
+CP-013,IW600-MS-CEN-006,eligible
+CP-073,IW600-MS-CEN-006,eligible
+CP-049,IW600-MS-MH-007,not eligible
+CP-098,IW600-MS-AP-010,eligible
+CP-012,IW600-MS-AP-012,eligible
+CP-082,IW600-UK-GBR-028,not eligible
+CP-019,IW600-MS-AP-016,not eligible
+CP-097,IW600-TN-TN-053,not eligible
+CP-019,IW600-MS-AP-018,eligible
+CP-063,IW600-JS-CEN-006,eligible
+CP-050,IW600-TN-TN-039,not eligible
+CP-047,IW600-MS-MH-001,eligible
+CP-061,IW600-UK-GBR-041,eligible
+CP-047,IW600-JS-CEN-012,eligible
+CP-083,IW600-MS-CG-001,eligible
+CP-034,IW600-MS-CEN-001,eligible
+CP-006,IW600-MS-UP-015,eligible
+CP-023,IW600-MS-BR-001,not eligible
+CP-092,IW600-US-USA-029,eligible
+CP-006,IW600-JS-CEN-002,not eligible
+CP-014,IW600-TN-TN-102,eligible
+CP-004,IW600-TN-TN-117,eligible
+CP-056,IW600-MS-GJ-001,eligible
+CP-039,IW600-MS-CEN-002,not eligible
+CP-014,IW600-MS-DL-011,not eligible
+CP-060,IW600-MS-CEN-006,eligible
+CP-065,IW600-MS-GA-013,not eligible
+CP-006,IW600-TN-TN-106,eligible
+CP-099,IW600-MS-GA-020,eligible
+CP-034,IW600-MS-CEN-002,eligible
+CP-019,IW600-US-USA-021,not eligible
+CP-015,IW600-MS-KL-008,eligible
+CP-030,IW600-TN-TN-099,not eligible
+CP-042,IW600-US-USA-045,not eligible
+CP-050,IW600-US-USA-010,not eligible
+CP-029,IW600-MS-UP-019,eligible
+CP-030,IW600-MS-CG-004,not eligible
+CP-084,IW600-JS-CEN-008,eligible
+CP-006,IW600-TN-TN-131,eligible
+CP-014,IW600-MS-KL-008,eligible
+CP-024,IW600-TN-TN-049,not eligible
+CP-089,IW600-JS-CEN-011,eligible
+CP-064,IW600-UK-GBR-022,eligible
+CP-006,IW600-TN-TN-094,eligible
+CP-089,IW600-JS-CEN-013,eligible
+CP-007,IW600-MS-RJ-018,not eligible
+CP-097,IW600-JS-CEN-006,eligible
+CP-091,IW600-MS-CG-016,not eligible
+CP-097,IW600-JS-CEN-001,eligible
+CP-023,IW600-MS-HR-006,not eligible
+CP-091,IW600-MS-KL-006,not eligible
+CP-053,IW600-UK-GBR-002,not eligible
+CP-036,IW600-TN-TN-105,not eligible
+CP-013,IW600-MS-CEN-002,eligible
+CP-031,IW600-TN-TN-049,not eligible
+CP-042,IW600-UK-GBR-020,not eligible
+CP-063,IW600-JS-CEN-007,eligible
+CP-042,IW600-TN-TN-075,not eligible
+CP-100,IW600-JS-CEN-005,eligible
+CP-062,IW600-TN-TN-086,eligible
+CP-098,IW600-MS-CEN-005,eligible
+CP-077,IW600-MS-CEN-004,eligible
+CP-004,IW600-JS-CEN-008,eligible
+CP-084,IW600-MS-KL-001,not eligible
+CP-052,IW600-MS-GJ-013,not eligible
+CP-060,IW600-UK-GBR-007,not eligible
+CP-039,IW600-MS-CEN-001,eligible
+CP-002,IW600-TN-TN-104,eligible
+CP-077,IW600-MS-CG-009,eligible
+CP-077,IW600-MS-AR-005,not eligible
+CP-049,IW600-MS-CEN-002,not eligible
+CP-006,IW600-TN-TN-087,eligible
+CP-024,IW600-MS-AP-018,eligible
+CP-085,IW600-MS-CEN-001,eligible
+CP-037,IW600-MS-RJ-002,eligible
+CP-038,IW600-UK-GBR-042,eligible
+CP-007,IW600-JS-CEN-004,eligible
+CP-072,IW600-MS-RJ-020,eligible
+CP-018,IW600-MS-CEN-003,eligible
+CP-007,IW600-MS-RJ-002,eligible
+CP-031,IW600-UK-GBR-022,not eligible
+CP-021,IW600-JS-CEN-013,eligible
+CP-083,IW600-US-USA-003,eligible
+CP-048,IW600-UK-GBR-012,eligible
+CP-076,IW600-MS-CG-009,not eligible
+CP-045,IW600-MS-MH-009,not eligible
+CP-063,IW600-MS-BR-007,not eligible
+CP-096,IW600-UK-GBR-046,eligible
+CP-020,IW600-JS-CEN-005,eligible
+CP-048,IW600-MS-CG-017,not eligible
+CP-032,IW600-MS-CEN-006,eligible
+CP-047,IW600-JS-CEN-013,eligible
+CP-014,IW600-MS-DL-002,not eligible
+CP-030,IW600-MS-MH-017,eligible
+CP-089,IW600-MS-CEN-002,eligible
+CP-030,IW600-MS-AP-013,not eligible
+CP-058,IW600-MS-GJ-013,not eligible
+CP-022,IW600-MS-CEN-001,not eligible
+CP-062,IW600-MS-BR-009,eligible
+CP-045,IW600-JS-CEN-010,eligible
+CP-012,IW600-MS-HP-002,not eligible
+CP-061,IW600-UK-GBR-053,eligible
+CP-046,IW600-MS-MH-011,eligible
+CP-100,IW600-JS-CEN-015,eligible
+CP-082,IW600-MS-CEN-001,eligible
+CP-072,IW600-UK-GBR-018,not eligible
+CP-014,IW600-MS-KL-019,eligible
+CP-077,IW600-UK-GBR-025,eligible
+CP-001,IW600-UK-GBR-013,eligible
+CP-031,IW600-MS-CEN-002,not eligible
+CP-008,IW600-UK-GBR-026,not eligible
+CP-072,IW600-MS-CH-013,not eligible
+CP-005,IW600-MS-CEN-005,not eligible
+CP-051,IW600-MS-CEN-005,not eligible
+CP-006,IW600-JS-CEN-012,eligible
+CP-030,IW600-JS-CEN-010,eligible
+CP-046,IW600-MS-MH-009,eligible
+CP-087,IW600-JS-CEN-011,not eligible
+CP-055,IW600-UK-GBR-046,not eligible
+CP-008,IW600-MS-KA-020,eligible
+CP-023,IW600-MS-SK-001,not eligible
+CP-027,IW600-UK-GBR-018,not eligible
+CP-040,IW600-MS-KL-002,not eligible
+CP-045,IW600-MS-MH-005,eligible
+CP-024,IW600-MS-AP-020,not eligible
+CP-094,IW600-MS-AS-013,eligible
+CP-065,IW600-MS-CEN-005,eligible
+CP-020,IW600-US-USA-009,not eligible
+CP-085,IW600-JS-CEN-013,eligible
+CP-015,IW600-MS-KL-017,not eligible
+CP-091,IW600-JS-CEN-010,eligible
+CP-036,IW600-JS-CEN-009,eligible
+CP-024,IW600-UK-GBR-037,not eligible
+CP-007,IW600-US-USA-013,eligible
+CP-015,IW600-JS-CEN-012,eligible
+CP-060,IW600-TN-TN-028,eligible
+CP-042,IW600-TN-TN-042,eligible
+CP-023,IW600-JS-CEN-002,eligible
+CP-022,IW600-MS-AP-010,eligible
+CP-065,IW600-TN-TN-007,eligible
+CP-062,IW600-UK-GBR-005,not eligible
+CP-041,IW600-MS-DL-004,eligible
+CP-030,IW600-MS-UP-002,eligible
+CP-083,IW600-US-USA-010,eligible
+CP-085,IW600-UK-GBR-025,eligible
+CP-062,IW600-UK-GBR-043,not eligible
+CP-097,IW600-TN-TN-096,not eligible
+CP-013,IW600-TN-TN-014,not eligible
+CP-020,IW600-UK-GBR-031,eligible
+CP-054,IW600-MS-GJ-013,eligible
+CP-026,IW600-MS-UP-005,not eligible
+CP-017,IW600-MS-AS-012,eligible
+CP-042,IW600-MS-AS-005,not eligible
+CP-042,IW600-MS-KL-013,not eligible
+CP-030,IW600-MS-UP-019,eligible
+CP-030,IW600-MS-UP-011,not eligible
+CP-096,IW600-JS-CEN-004,eligible
+CP-010,IW600-JS-CEN-001,eligible
+CP-063,IW600-MS-BR-006,eligible
+CP-062,IW600-MS-BR-013,eligible
+CP-079,IW600-TN-TN-085,not eligible
+CP-024,IW600-MS-AP-006,eligible
+CP-042,IW600-MS-KL-004,eligible
+CP-097,IW600-MS-UP-004,not eligible
+CP-085,IW600-JS-CEN-007,eligible
+CP-004,IW600-TN-TN-044,eligible
+CP-009,IW600-MS-KA-012,eligible
+CP-083,IW600-MS-HP-006,eligible
+CP-018,IW600-MS-KL-019,eligible
+CP-042,IW600-TN-TN-108,eligible
+CP-030,IW600-MS-KA-004,not eligible
+CP-002,IW600-TN-TN-091,eligible
+CP-076,IW600-US-USA-037,not eligible
+CP-084,IW600-UK-GBR-037,not eligible
+CP-055,IW600-UK-GBR-048,eligible
+CP-028,IW600-JS-CEN-004,eligible
+CP-013,IW600-MS-CEN-001,eligible
+CP-063,IW600-JS-CEN-013,eligible
+CP-048,IW600-MS-CEN-001,eligible
+CP-014,IW600-UK-GBR-059,eligible
+CP-067,IW600-MS-MH-001,not eligible
+CP-030,IW600-JS-CEN-012,eligible
+CP-057,IW600-MS-GJ-013,not eligible
+CP-011,IW600-MS-KA-015,eligible
+CP-009,IW600-MS-CEN-003,not eligible
+CP-066,IW600-TN-TN-019,eligible
+CP-007,IW600-MS-KA-004,eligible
+CP-015,IW600-MS-HP-006,not eligible
+CP-023,IW600-TN-TN-005,eligible
+CP-094,IW600-MS-KL-002,not eligible
+CP-019,IW600-JS-CEN-013,eligible
+CP-082,IW600-MS-CEN-002,eligible
+CP-058,IW600-MS-CEN-005,eligible
+CP-002,IW600-TN-TN-131,eligible
+CP-015,IW600-MS-KL-011,eligible
+CP-080,IW600-JS-CEN-006,eligible
+CP-055,IW600-MS-RJ-018,not eligible
+CP-094,IW600-MS-CEN-005,eligible
+CP-092,IW600-TN-TN-106,eligible
+CP-041,IW600-US-USA-029,eligible
+CP-052,IW600-JS-CEN-004,eligible
+CP-042,IW600-MS-BR-010,not eligible
+CP-097,IW600-TN-TN-025,eligible
+CP-006,IW600-TN-TN-055,eligible
+CP-038,IW600-TN-TN-049,eligible
+CP-033,IW600-MS-AR-005,not eligible
+CP-056,IW600-UK-GBR-014,not eligible
+CP-040,IW600-UK-GBR-045,not eligible
+CP-023,IW600-MS-AP-002,not eligible
+CP-080,IW600-JS-CEN-007,eligible
+CP-063,IW600-MS-CEN-005,not eligible
+CP-016,IW600-UK-GBR-018,not eligible
+CP-055,IW600-MS-GJ-018,eligible
+CP-007,IW600-MS-KL-011,not eligible
+CP-007,IW600-MS-GA-013,not eligible
+CP-097,IW600-TN-TN-017,eligible
+CP-055,IW600-MS-UP-002,not eligible
+CP-004,IW600-JS-CEN-013,eligible
+CP-051,IW600-MS-MH-015,not eligible
+CP-075,IW600-MS-CEN-002,eligible
+CP-043,IW600-MS-KA-020,not eligible
+CP-050,IW600-UK-GBR-004,eligible
+CP-023,IW600-TN-TN-073,not eligible
+CP-011,IW600-TN-TN-085,not eligible
+CP-022,IW600-TN-TN-063,not eligible
+CP-046,IW600-MS-AN-005,not eligible
+CP-002,IW600-MS-KL-011,not eligible
+CP-058,IW600-MS-GJ-001,eligible
+CP-023,IW600-MS-CG-002,not eligible
+CP-035,IW600-MS-RJ-019,eligible
+CP-048,IW600-JS-CEN-001,eligible
+CP-079,IW600-JS-CEN-002,eligible
+CP-040,IW600-TN-TN-034,not eligible
+CP-097,IW600-JS-CEN-003,eligible
+CP-023,IW600-TN-TN-057,not eligible
+CP-061,IW600-MS-BR-018,eligible
+CP-026,IW600-UK-GBR-001,unknown
+CP-033,IW600-UK-GBR-001,unknown
+CP-001,IW600-UK-GBR-005,unknown
+CP-008,IW600-UK-GBR-020,unknown
+CP-079,IW600-US-USA-049,unknown
+CP-038,IW600-UK-GBR-043,unknown
+CP-044,IW600-UK-GBR-043,unknown
+CP-001,IW600-US-USA-004,unknown
+CP-038,IW600-US-USA-004,unknown
+CP-101,IW600-TN-TN-022,unknown
+CP-101,IW600-TN-TN-017,unknown
+CP-102,IW600-MS-GA-003,unknown
+CP-103,IW600-US-USA-021,unknown
+CP-103,IW600-US-USA-024,unknown
+CP-104,IW600-MS-KL-008,unknown
+CP-102,IW600-MS-GA-020,unknown
+CP-105,IW600-US-USA-001,unknown
+CP-105,IW600-UK-GBR-043,unknown
+CP-106,IW600-JS-CEN-014,unknown
+CP-107,IW600-JS-CEN-014,unknown
+CP-108,IW600-JS-CEN-014,unknown
+CP-109,IW600-UK-GBR-001,unknown
+CP-110,IW600-UK-GBR-005,unknown
+CP-109,IW600-UK-GBR-020,unknown
+CP-110,IW600-UK-GBR-043,unknown

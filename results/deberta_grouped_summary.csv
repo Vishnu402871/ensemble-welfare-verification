@@ -1,0 +1,7 @@
+metric,mean,std
+accuracy,0.8708,0.0181
+precision,0.7145,0.049
+recall,0.6927,0.0279
+f1_binary,0.7033,0.0371
+f1_macro,0.8103,0.0245
+kappa,0.6207,0.0491

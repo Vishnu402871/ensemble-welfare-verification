@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.10
+statsmodels>=0.14
+# baselines only:
+sentence-transformers>=2.6     # bge_baseline, bge_task2_ranking
+torch>=2.1                     # deberta_cv_baseline, deberta_grouped_cv
+transformers>=4.40
+sentencepiece
+ollama                         # llama70b_baseline
